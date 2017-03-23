@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "755583404262",
+    "firebase_url": "https://kembara-madani-eduka.firebaseio.com",
+    "project_id": "kembara-madani-eduka",
+    "storage_bucket": "kembara-madani-eduka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755583404262:android:ec54ade329e050b1",
+        "android_client_info": {
+          "package_name": "com.madanieduka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755583404262-fgbnapnir3b6bb6t3feufborsad3v33i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uj5ijaV4UqZHy3eM3q8sOp7XWkYOtsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755583404262:android:a862950bd3707224",
+        "android_client_info": {
+          "package_name": "com.madanieduka.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755583404262-fgbnapnir3b6bb6t3feufborsad3v33i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uj5ijaV4UqZHy3eM3q8sOp7XWkYOtsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
